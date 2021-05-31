@@ -29,6 +29,7 @@ issues]].
   - Fixed a bug in ru-litbrl-detailed.utb that was causing a number
     sign to be missing in some cases.
   - Added more accented letters.
+- Small fix to Italian computer braille thanks to Simone Dal Maso
 ** Other changes
 ** Deprecation notice
 - None
